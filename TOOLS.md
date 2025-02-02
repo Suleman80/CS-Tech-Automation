@@ -43,3 +43,5 @@ Poniżej pełna lista narzędzi, które ustaliliśmy w Twoim **planie nauki Cust
 📌 **Tworzymy tutorial, który łączy te narzędzia w praktyce**
 
 **💡 Wszystko się spina w jedną całość!** 🚀
+
+# Aktualizacja
