@@ -38,24 +38,27 @@ This document tracks your progress in Customer Success learning and technical sk
 ⬜ Lesson 17: Ticketing Systems Overview  
 ⬜ Lesson 18: Live Chat Platforms Deep Dive  
 ⬜ Lesson 19: Analytics Tools in CS  
-⬜ Lesson 20: Knowledge Base Management
+⬜ Lesson 20: Knowledge Base Management  
+⬜ Lesson 21: Platform Self-Service (Zendesk Guide, Intercom Help Center, Freshdesk, Salesforce KB, Gainsight PX)  
+⬜ Lesson 22: Looker & Power BI Fundamentals
 
 ### 🔹 **Module 5: Advanced CS Operations**
 
-⬜ Lesson 21: Scaling CS Operations  
-⬜ Lesson 22: Automation in CS  
-⬜ Lesson 23: Technical Project Management  
-⬜ Lesson 24: CS Data & Reporting
+⬜ Lesson 23: Scaling CS Operations  
+⬜ Lesson 24: Automation in CS  
+⬜ Lesson 25: Technical Project Management  
+⬜ Lesson 26: CS Data & Reporting
 
 ### 🔹 **Module 6: Python + API + SQL in Customer Success** (Start: **February 2025**, 15-30 min daily)
 
-⬜ Lesson 25: **Introduction to Python** – language basics, syntax, applications.  
-⬜ Lesson 26: **Environment Setup** – Python + VS Code + GitHub repository.  
-⬜ Lesson 27: **Automating File Updates in Obsidian** (first project).  
-⬜ Lesson 28: **Fetching Data from APIs and Working with CSV Files**.  
-⬜ Lesson 29: **Connecting API with SQL** – practical customer data analysis.  
-⬜ Lesson 30: **Automated KPI Report Generation** – Python + SQL.  
-⬜ Lesson 31: **Final Project: Python + SQL + API** – summary and real application in CS.
+✅ Lesson 27: **Introduction to Python** – language basics, syntax, applications.  
+✅ Lesson 28: **Environment Setup** – Python + VS Code + GitHub repository.  
+⬜ Lesson 29: **Automating File Updates in Obsidian** (first project).  
+⬜ Lesson 30: **Fetching Data from APIs and Working with CSV Files**.  
+⬜ Lesson 31: **Connecting API with SQL** – practical customer data analysis.  
+⬜ Lesson 32: **Automated KPI Report Generation** – Python + SQL.  
+⬜ Lesson 33: **Final Project: Python + SQL + API** – summary and real application in CS.  
+⬜ Lesson 34: **DevTools & Debugging Basics – Web & API troubleshooting.**
 
 ### 🔹 **Certification Tracker**
 
@@ -69,21 +72,23 @@ This document tracks your progress in Customer Success learning and technical sk
 
 ### 📌 **Customer Success Fundamentals:**
 
-- Voice of Customer: ⬜⬜⬜⬜⬜
-- Health Scoring: ⬜⬜⬜⬜⬜
-- Churn Prevention: ⬜⬜⬜⬜⬜
+- Voice of Customer: ⬛⬜⬜⬜⬜
+- Health Scoring: ⬛⬜⬜⬜⬜
+- Churn Prevention: ⬛⬜⬜⬜⬜
 
 ### 📌 **Technical Skills:**
 
-- API Fundamentals: ⬜⬜⬜⬜⬜
+- API Fundamentals: ⬛⬜⬜⬜⬜
 - SQL Fundamentals: ⬜⬜⬜⬜⬜
-- Troubleshooting & Integration: ⬜⬜⬜⬜⬜
+- Troubleshooting & Integration: ⬛⬜⬜⬜⬜
+- Python Fundamentals: ⬛⬜⬜⬜⬜
 
 ### 📌 **Platforms & Tools:**
 
 - Ticketing Systems: ⬜⬜⬜⬜⬜
 - Analytics Tools: ⬜⬜⬜⬜⬜
 - Knowledge Base Management: ⬜⬜⬜⬜⬜
+- DevTools & Debugging: ⬜⬜⬜⬜⬜
 
 ### 📌 **Advanced CS:**
 
@@ -106,13 +111,3 @@ This document tracks your progress in Customer Success learning and technical sk
 ⬜ AWS Cloud Practitioner Certification  
 ⬜ Gainsight NXT – CS Management Tool  
 ⬜ Python for CS Data Analysis
-
----
-
-## 📌 **Final Notes**
-
-This document is public and serves as proof of progress – it will be part of your GitHub repository and LinkedIn profile.
-
-lekcje krotkie do dodania gdzies je wpleciemy:
-⬜ **Platform samoobsługowych (Zendesk Guide, Intercom Help Center, Freshdesk, Salesforce KB, Gainsight PX).**  
-⬜ **Podstaw Looker i Power BI (bez głębokiego wchodzenia w temat, tylko podstawowa świadomość i zastosowania).**
