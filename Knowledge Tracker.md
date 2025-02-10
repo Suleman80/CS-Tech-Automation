@@ -79,7 +79,7 @@ I want to showcase how I'm **building technical competencies in CS**, and this r
 - Git Bash – repo operations (pull, commit, merge)
 - Debugging API with DevTools
 
-📂 **Repo Updates**  
+✅ **Repo Updates**  
 📁 `/docs` → README, Learning Tracker, GitHub workflow  
 📁 `/learning_logs` → First Bash & Git tests
 
@@ -91,7 +91,7 @@ I want to showcase how I'm **building technical competencies in CS**, and this r
 - Data analysis in CS using SQL
 - Testing customer datasets in SQL
 
-**✅ **Repo Updates\*\*  
+✅ **Repo Updates**  
 📁 `/sql` → `.sql` files with SQL queries  
 📁 `/case_studies` → Analysis of sample datasets
 
@@ -103,7 +103,7 @@ I want to showcase how I'm **building technical competencies in CS**, and this r
 - Fetching data from APIs in Python
 - First automation – combining API & SQL
 
-**✅ **Repo Updates\*\*  
+**✅ Repo Updates**  
 📁 `/api` → API tests, Postman queries  
 📁 `/projects` → Mini API + SQL integration
 
@@ -115,7 +115,7 @@ I want to showcase how I'm **building technical competencies in CS**, and this r
 - Automating KPI reports using Python
 - AI-driven automations
 
-**✅ **Repo Updates\*\*  
+**✅ Repo Updates**  
 📁 `/automation` → Scripts automating CS workflows  
 📁 `/ai_in_cs` → AI experiments in CS
 
@@ -127,7 +127,7 @@ I want to showcase how I'm **building technical competencies in CS**, and this r
 - Creating webhooks & triggers for CS automation
 - Automating data retrieval for dashboards
 
-**✅ **Repo Updates\*\*  
+**✅ Repo Updates**  
 📁 `/api_integrations` → API tests across platforms  
 📁 `/webhooks` → Webhook configurations & event-driven actions
 
@@ -139,7 +139,7 @@ I want to showcase how I'm **building technical competencies in CS**, and this r
 - Monitoring customer interactions & KPIs
 - Automating alerts in CS workflows
 
-**✅ **Repo Updates\*\*  
+**✅ Repo Updates**  
 📁 `/monitoring` → API & error logging system  
 📁 `/alerts` → Automated CS alerts
 
@@ -151,7 +151,7 @@ I want to showcase how I'm **building technical competencies in CS**, and this r
 - Completing full documentation in the repo
 - Summarizing learning & case study
 
-**✅ **Repo Updates\*\*  
+**✅ Repo Updates**  
 📁 `/final_project` → Full case study & documentation  
 📁 `/portfolio` → Organized projects for CV
 
