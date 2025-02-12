@@ -56,6 +56,14 @@
 ⬜ Lesson 33: **Final Project: Python + SQL + API** – summary and real application in CS.  
 ⬜ Lesson 34: **DevTools & Debugging Basics – Web & API troubleshooting.**
 
+### 🔹 **Module 7: Troubleshooting & Advanced Technical CS**
+
+⬜ Lesson 35: **Debugging API in CS** – common API integration issues and resolution.  
+⬜ Lesson 36: **SQL for CS – Customer Health & Churn Analysis** – using SQL to detect churn risk and engagement trends.  
+⬜ Lesson 37: **Monitoring & Log Analysis** – troubleshooting customer issues through logs and error tracking.  
+⬜ Lesson 38: **Automation & Alerting for CS** – setting up automated alerts for proactive issue resolution.  
+⬜ Lesson 39: **Case Study: Diagnosing and Fixing a Complex API Issue** – hands-on real-world troubleshooting scenario.
+
 ---
 
 ## 🗓 **Learning Roadmap – When & What Will Be Added to the Repo?**
@@ -157,6 +165,19 @@ I want to showcase how I'm **building technical competencies in CS**, and this r
 
 ---
 
+## **Week 15-16: Troubleshooting & Advanced CS** (Lessons 35-39)
+
+- Debugging API issues and analyzing customer API errors
+- SQL-based analysis of customer engagement and churn prediction
+- Monitoring logs and setting up automated alerts for proactive CS
+- Hands-on troubleshooting case study
+
+✅ **Repo Updates**  
+📁 `/troubleshooting` → API debugging, SQL health analysis, log tracking  
+📁 `/case_studies` → Complex API troubleshooting scenarios
+
+---
+
 ## 📌 **Certification Tracker (2025)**
 
 ⬜ **Postman API Fundamentals** – API testing & debugging  
@@ -176,6 +197,7 @@ I want to showcase how I'm **building technical competencies in CS**, and this r
 📁 `/ai_in_cs` → AI experiments in Customer Success  
 📁 `/monitoring` → API logging & error tracking  
 📁 `/alerts` → Automated CS alerts  
+📁 `/troubleshooting` → Debugging scenarios & log analysis  
 📁 `/final_project` → Full case study  
 📁 `/portfolio` → Structured projects for job applications
 
