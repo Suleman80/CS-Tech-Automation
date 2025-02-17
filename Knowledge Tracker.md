@@ -1,12 +1,4 @@
-<<<<<<< HEAD
-
 # 🚀Knowledge Tracker – API, SQL & Automation
-
-=======
-
-# 🚀Knowledge Tracker – API, SQL & Automation
-
-> > > > > > > 72366160ca41df82bd3f6e6b7964fea4e1385757
 
 ## ✅ **Customer Success Learning Progress**
 
@@ -18,7 +10,7 @@
 ✅ Lesson 4: Product Adoption Frameworks  
 ✅ Lesson 5: Advanced Retention Strategies  
 🔄 Lesson 6: Success Planning & Playbooks (In Progress)  
-⬜ Lesson 7: Technical Foundation for CS (Planned: Week 7)
+⬜ Lesson 7: Technical Foundation for CS
 
 ### 🔹 **Module 2: API & SQL Fundamentals**
 
@@ -71,7 +63,6 @@
 ⬜ Lesson 37: **Monitoring & Log Analysis** – troubleshooting customer issues through logs and error tracking.  
 ⬜ Lesson 38: **Automation & Alerting for CS** – setting up automated alerts for proactive issue resolution.  
 ⬜ Lesson 39: **Case Study: Diagnosing and Fixing a Complex API Issue** – hands-on real-world troubleshooting scenario.
-<<<<<<< HEAD
 
 ---
 
@@ -79,53 +70,9 @@
 
 # This is the roadmap of my **GitHub repository**, documenting my learning journey in **Tech Customer Success** – from API & SQL to automation and AI-driven workflows.
 
----
-
-## 🗓 **Learning Roadmap – When & What Will Be Added to the Repo?**
-
-This is the roadmap of my **GitHub repository**, documenting my learning journey in **Tech Customer Success** – from API & SQL to automation and AI-driven workflows.
-
-> > > > > > > 72366160ca41df82bd3f6e6b7964fea4e1385757
-
-📌 **What will you find here?**  
-✔ Planned **repo updates** aligned with lessons & mini-projects  
-✔ Structured **learning milestones** across weekly stages  
-<<<<<<< HEAD
-✔ **Real-world case studies** – showcasing how tech supports Customer Success  
-=======
-✔ **Real-world case studies** – showcasing how tech supports Customer Success
-
-> > > > > > > 72366160ca41df82bd3f6e6b7964fea4e1385757
-
-💡 **Why am I doing this?**  
-I want to showcase how I'm **building technical competencies in CS**, and this repo serves as proof of systematic progress.
-
----
-
-## **Week 1-2: Git, Repo, Bash & DevTools** (Lessons 1-9)
-
-<<<<<<< HEAD
-
-- Setting up the GitHub repository
-- Learning Tracker + first commits
-- Git Bash – repo operations (pull, commit, merge)
-- Debugging API with DevTools
-
-✅ **Repo Updates**  
-📁 `/docs` → README, Learning Tracker, GitHub workflow  
-📁 `/learning_logs` → First Bash & Git tests  
-=======
-
-- Setting up the GitHub repository
-- Learning Tracker + first commits
-- Git Bash – repo operations (pull, commit, merge)
-- Debugging API with DevTools
-
 ✅ **Repo Updates**  
 📁 `/docs` → README, Learning Tracker, GitHub workflow  
 📁 `/learning_logs` → First Bash & Git tests
-
-> > > > > > > 72366160ca41df82bd3f6e6b7964fea4e1385757
 
 ---
 
@@ -191,8 +138,6 @@ I want to showcase how I'm **building technical competencies in CS**, and this r
 
 ## **Week 13-14: Finalization & Portfolio Projects** (Lessons 30-34)
 
-<<<<<<< HEAD
-
 - Building the final API + SQL + automation project
 - Completing full documentation in the repo
 - Summarizing learning & case study
@@ -202,29 +147,11 @@ I want to showcase how I'm **building technical competencies in CS**, and this r
 📁 `/portfolio` → Organized projects for CV
 
 ---
-
-=======
-
-- Building the final API + SQL + automation project
-- Completing full documentation in the repo
-- Summarizing learning & case study
-
-**✅ Repo Updates**  
-📁 `/final_project` → Full case study & documentation  
-📁 `/portfolio` → Organized projects for CV
-
----
-
-> > > > > > > 72366160ca41df82bd3f6e6b7964fea4e1385757
-
 ## **Week 15-16: Troubleshooting & Advanced CS** (Lessons 35-39)
 
 - Debugging API issues and analyzing customer API errors
 - SQL-based analysis of customer engagement and churn prediction
-  <<<<<<< HEAD
-- # Monitoring logs and setting up automated alerts for proactive CS
 - Monitoring logs and setting up automated alerts for proactive CS
-  > > > > > > > 72366160ca41df82bd3f6e6b7964fea4e1385757
 - Hands-on troubleshooting case study
 
 ✅ **Repo Updates**  
@@ -233,26 +160,13 @@ I want to showcase how I'm **building technical competencies in CS**, and this r
 
 ---
 
-# <<<<<<< HEAD
-
-> > > > > > > 72366160ca41df82bd3f6e6b7964fea4e1385757
-
 ## 📌 **Certification Tracker (2025)**
 
 ⬜ **Postman API Fundamentals** – API testing & debugging  
 ⬜ **AWS Certified Cloud Practitioner** – Cloud basics & AWS services  
-<<<<<<< HEAD
 ⬜ **Gainsight NXT Admin Foundations** – CS platform & automation
 
 ---
-
-=======
-⬜ **Gainsight NXT Admin Foundations** – CS platform & automation
-
----
-
-> > > > > > > 72366160ca41df82bd3f6e6b7964fea4e1385757
-
 ## 📂 **GitHub Repository Structure**
 
 📁 `/docs` → README, Learning Tracker, roadmap  
