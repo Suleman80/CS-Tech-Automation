@@ -1,4 +1,12 @@
-# 🚀Knowledge Tracker – API, SQL & Automation 
+<<<<<<< HEAD
+
+# 🚀Knowledge Tracker – API, SQL & Automation
+
+=======
+
+# 🚀Knowledge Tracker – API, SQL & Automation
+
+> > > > > > > 72366160ca41df82bd3f6e6b7964fea4e1385757
 
 ## ✅ **Customer Success Learning Progress**
 
@@ -63,15 +71,31 @@
 ⬜ Lesson 37: **Monitoring & Log Analysis** – troubleshooting customer issues through logs and error tracking.  
 ⬜ Lesson 38: **Automation & Alerting for CS** – setting up automated alerts for proactive issue resolution.  
 ⬜ Lesson 39: **Case Study: Diagnosing and Fixing a Complex API Issue** – hands-on real-world troubleshooting scenario.
+<<<<<<< HEAD
+
 ---
+
 ## 🗓 **Learning Roadmap – When & What Will Be Added to the Repo?**
 
-This is the roadmap of my **GitHub repository**, documenting my learning journey in **Tech Customer Success** – from API & SQL to automation and AI-driven workflows.  
+# This is the roadmap of my **GitHub repository**, documenting my learning journey in **Tech Customer Success** – from API & SQL to automation and AI-driven workflows.
+
+---
+
+## 🗓 **Learning Roadmap – When & What Will Be Added to the Repo?**
+
+This is the roadmap of my **GitHub repository**, documenting my learning journey in **Tech Customer Success** – from API & SQL to automation and AI-driven workflows.
+
+> > > > > > > 72366160ca41df82bd3f6e6b7964fea4e1385757
 
 📌 **What will you find here?**  
 ✔ Planned **repo updates** aligned with lessons & mini-projects  
 ✔ Structured **learning milestones** across weekly stages  
+<<<<<<< HEAD
 ✔ **Real-world case studies** – showcasing how tech supports Customer Success  
+=======
+✔ **Real-world case studies** – showcasing how tech supports Customer Success
+
+> > > > > > > 72366160ca41df82bd3f6e6b7964fea4e1385757
 
 💡 **Why am I doing this?**  
 I want to showcase how I'm **building technical competencies in CS**, and this repo serves as proof of systematic progress.
@@ -80,93 +104,127 @@ I want to showcase how I'm **building technical competencies in CS**, and this r
 
 ## **Week 1-2: Git, Repo, Bash & DevTools** (Lessons 1-9)
 
-- Setting up the GitHub repository  
-- Learning Tracker + first commits  
-- Git Bash – repo operations (pull, commit, merge)  
-- Debugging API with DevTools  
+<<<<<<< HEAD
+
+- Setting up the GitHub repository
+- Learning Tracker + first commits
+- Git Bash – repo operations (pull, commit, merge)
+- Debugging API with DevTools
 
 ✅ **Repo Updates**  
 📁 `/docs` → README, Learning Tracker, GitHub workflow  
 📁 `/learning_logs` → First Bash & Git tests  
+=======
+
+- Setting up the GitHub repository
+- Learning Tracker + first commits
+- Git Bash – repo operations (pull, commit, merge)
+- Debugging API with DevTools
+
+✅ **Repo Updates**  
+📁 `/docs` → README, Learning Tracker, GitHub workflow  
+📁 `/learning_logs` → First Bash & Git tests
+
+> > > > > > > 72366160ca41df82bd3f6e6b7964fea4e1385757
 
 ---
 
 ## **Week 3-4: SQL for Customer Success** (Lessons 10-12)
 
-- SQL fundamentals – SELECT, JOIN, GROUP BY  
-- Data analysis in CS using SQL  
-- Testing customer datasets in SQL  
+- SQL fundamentals – SELECT, JOIN, GROUP BY
+- Data analysis in CS using SQL
+- Testing customer datasets in SQL
 
 ✅ **Repo Updates**  
 📁 `/sql` → `.sql` files with SQL queries  
-📁 `/case_studies` → Analysis of sample datasets  
+📁 `/case_studies` → Analysis of sample datasets
 
 ---
 
 ## **Week 5-6: API Fundamentals** (Lessons 13-16)
 
-- Postman – API basics, GET & POST requests  
-- Fetching data from APIs in Python  
-- First automation – combining API & SQL  
+- Postman – API basics, GET & POST requests
+- Fetching data from APIs in Python
+- First automation – combining API & SQL
 
 **✅ Repo Updates**  
 📁 `/api` → API tests, Postman queries  
-📁 `/projects` → Mini API + SQL integration  
+📁 `/projects` → Mini API + SQL integration
 
 ---
 
 ## **Week 7-8: Automation & AI in CS** (Lessons 17-21)
 
-- Combining API + SQL + Python into workflows  
-- Automating KPI reports using Python  
-- AI-driven automations  
+- Combining API + SQL + Python into workflows
+- Automating KPI reports using Python
+- AI-driven automations
 
 **✅ Repo Updates**  
 📁 `/automation` → Scripts automating CS workflows  
-📁 `/ai_in_cs` → AI experiments in CS  
+📁 `/ai_in_cs` → AI experiments in CS
 
 ---
 
 ## **Week 9-10: Advanced API & Integrations** (Lessons 22-25)
 
-- Connecting multiple APIs in a unified workflow  
-- Creating webhooks & triggers for CS automation  
-- Automating data retrieval for dashboards  
+- Connecting multiple APIs in a unified workflow
+- Creating webhooks & triggers for CS automation
+- Automating data retrieval for dashboards
 
 **✅ Repo Updates**  
 📁 `/api_integrations` → API tests across platforms  
-📁 `/webhooks` → Webhook configurations & event-driven actions  
+📁 `/webhooks` → Webhook configurations & event-driven actions
 
 ---
 
 ## **Week 11-12: Monitoring & DevTools for CS** (Lessons 26-29)
 
-- Logging errors & API issue analysis  
-- Monitoring customer interactions & KPIs  
-- Automating alerts in CS workflows  
+- Logging errors & API issue analysis
+- Monitoring customer interactions & KPIs
+- Automating alerts in CS workflows
 
 **✅ Repo Updates**  
 📁 `/monitoring` → API & error logging system  
-📁 `/alerts` → Automated CS alerts  
+📁 `/alerts` → Automated CS alerts
 
 ---
 
 ## **Week 13-14: Finalization & Portfolio Projects** (Lessons 30-34)
 
-- Building the final API + SQL + automation project  
-- Completing full documentation in the repo  
-- Summarizing learning & case study  
+<<<<<<< HEAD
+
+- Building the final API + SQL + automation project
+- Completing full documentation in the repo
+- Summarizing learning & case study
 
 **✅ Repo Updates**  
 📁 `/final_project` → Full case study & documentation  
-📁 `/portfolio` → Organized projects for CV  
+📁 `/portfolio` → Organized projects for CV
 
 ---
+
+=======
+
+- Building the final API + SQL + automation project
+- Completing full documentation in the repo
+- Summarizing learning & case study
+
+**✅ Repo Updates**  
+📁 `/final_project` → Full case study & documentation  
+📁 `/portfolio` → Organized projects for CV
+
+---
+
+> > > > > > > 72366160ca41df82bd3f6e6b7964fea4e1385757
+
 ## **Week 15-16: Troubleshooting & Advanced CS** (Lessons 35-39)
 
 - Debugging API issues and analyzing customer API errors
 - SQL-based analysis of customer engagement and churn prediction
-- Monitoring logs and setting up automated alerts for proactive CS    
+  <<<<<<< HEAD
+- # Monitoring logs and setting up automated alerts for proactive CS
+- Monitoring logs and setting up automated alerts for proactive CS
+  > > > > > > > 72366160ca41df82bd3f6e6b7964fea4e1385757
 - Hands-on troubleshooting case study
 
 ✅ **Repo Updates**  
@@ -174,13 +232,27 @@ I want to showcase how I'm **building technical competencies in CS**, and this r
 📁 `/case_studies` → Complex API troubleshooting scenarios
 
 ---
+
+# <<<<<<< HEAD
+
+> > > > > > > 72366160ca41df82bd3f6e6b7964fea4e1385757
+
 ## 📌 **Certification Tracker (2025)**
 
 ⬜ **Postman API Fundamentals** – API testing & debugging  
 ⬜ **AWS Certified Cloud Practitioner** – Cloud basics & AWS services  
-⬜ **Gainsight NXT Admin Foundations** – CS platform & automation  
+<<<<<<< HEAD
+⬜ **Gainsight NXT Admin Foundations** – CS platform & automation
 
 ---
+
+=======
+⬜ **Gainsight NXT Admin Foundations** – CS platform & automation
+
+---
+
+> > > > > > > 72366160ca41df82bd3f6e6b7964fea4e1385757
+
 ## 📂 **GitHub Repository Structure**
 
 📁 `/docs` → README, Learning Tracker, roadmap  
