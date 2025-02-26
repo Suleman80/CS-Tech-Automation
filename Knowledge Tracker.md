@@ -14,7 +14,7 @@
 
 ### 🔹 **Module 2: API & SQL Fundamentals**
 
-⬜ Lesson 8: API Fundamentals (Postman & REST API in CS)  
+🔄 Lesson 8: API Fundamentals (Postman & REST API in CS)  
 ⬜ Lesson 9: Debugging & API Analysis with DevTools  
 ⬜ Lesson 10: API Use Cases in CS (Integrations & Automations)  
 ⬜ Lesson 11: SQL Basics & Customer Data Analysis  
@@ -66,9 +66,9 @@
 
 ---
 
-## 🗓 **Learning Roadmap – When & What Will Be Added to the Repo?**
+## 🗓 **Learning Roadmap – What Will Be Added to the Repo?**
 
-# This is the roadmap of my **GitHub repository**, documenting my learning journey in **Tech Customer Success** – from API & SQL to automation and AI-driven workflows.
+This is the roadmap of my **GitHub repository**, documenting my learning journey in **Tech Customer Success** – from API & SQL to automation and AI-driven workflows.
 
 ✅ **Repo Updates**  
 📁 `/docs` → README, Learning Tracker, GitHub workflow  
@@ -76,7 +76,7 @@
 
 ---
 
-## **Week 3-4: SQL for Customer Success** (Lessons 10-12)
+## Lessons 10-12: SQL for Customer Success
 
 - SQL fundamentals – SELECT, JOIN, GROUP BY
 - Data analysis in CS using SQL
@@ -88,7 +88,7 @@
 
 ---
 
-## **Week 5-6: API Fundamentals** (Lessons 13-16)
+## Lessons 13-16: API Fundamentals
 
 - Postman – API basics, GET & POST requests
 - Fetching data from APIs in Python
@@ -100,7 +100,7 @@
 
 ---
 
-## **Week 7-8: Automation & AI in CS** (Lessons 17-21)
+## Lessons 17-21: Automation & AI in CS
 
 - Combining API + SQL + Python into workflows
 - Automating KPI reports using Python
@@ -112,7 +112,7 @@
 
 ---
 
-## **Week 9-10: Advanced API & Integrations** (Lessons 22-25)
+## Lessons 22-25: Advanced API & Integrations
 
 - Connecting multiple APIs in a unified workflow
 - Creating webhooks & triggers for CS automation
@@ -124,7 +124,7 @@
 
 ---
 
-## **Week 11-12: Monitoring & DevTools for CS** (Lessons 26-29)
+## Lessons 26-29: Monitoring & DevTools for CS
 
 - Logging errors & API issue analysis
 - Monitoring customer interactions & KPIs
@@ -136,7 +136,7 @@
 
 ---
 
-## **Week 13-14: Finalization & Portfolio Projects** (Lessons 30-34)
+## Lessons 30-34: Finalization & Portfolio Projects
 
 - Building the final API + SQL + automation project
 - Completing full documentation in the repo
@@ -147,7 +147,7 @@
 📁 `/portfolio` → Organized projects for CV
 
 ---
-## **Week 15-16: Troubleshooting & Advanced CS** (Lessons 35-39)
+## Lessons 35-39: Troubleshooting & Advanced CS
 
 - Debugging API issues and analyzing customer API errors
 - SQL-based analysis of customer engagement and churn prediction
@@ -162,7 +162,7 @@
 
 ## 📌 **Certification Tracker (2025)**
 
-⬜ **Postman API Fundamentals** – API testing & debugging  
+🔄 **Postman API Fundamentals** – API testing & debugging  
 ⬜ **AWS Certified Cloud Practitioner** – Cloud basics & AWS services  
 ⬜ **Gainsight NXT Admin Foundations** – CS platform & automation
 
