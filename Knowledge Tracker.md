@@ -20,12 +20,22 @@
 ⬜ Lesson 11: SQL Basics & Customer Data Analysis  
 ⬜ Lesson 12: Advanced SQL for CS (Dashboards & KPIs)
 
+📂 **Repo Updates:**  
+📁 `/api` → API tests, Postman queries  
+📁 `/sql` → `.sql` files with SQL queries  
+📁 `/case_studies` → Analysis of sample datasets  
+📁 `/projects` → Mini API + SQL integration
+
 ### 🔹 **Module 3: AI & Predictive Analytics**
 
 ⬜ Lesson 13: AI Fundamentals for CS  
 ⬜ Lesson 14: Automation & AI Tools  
 ⬜ Lesson 15: Predictive Analytics in CS  
 ⬜ Lesson 16: AI-Driven Customer Intelligence
+
+📂 **Repo Updates:**  
+📁 `/ai_in_cs` → AI experiments in CS  
+📁 `/automation` → Scripts automating CS workflows
 
 ### 🔹 **Module 4: Platforms & Tools**
 
@@ -36,6 +46,9 @@
 ⬜ Lesson 21: Platform Self-Service (Zendesk, Intercom, Gainsight PX)  
 ⬜ Lesson 22: Looker & Power BI Fundamentals
 
+📂 **Repo Updates:**  
+📁 `/platforms` → Overview of CS tools and platforms
+
 ### 🔹 **Module 5: Advanced CS Operations**
 
 ⬜ Lesson 23: Scaling CS Operations  
@@ -43,9 +56,11 @@
 ⬜ Lesson 25: Technical Project Management  
 ⬜ Lesson 26: CS Data & Reporting
 
-### 🔹 **Module 6: Python + API + SQL in Customer Success**
+📂 **Repo Updates:**  
+📁 `/automation` → Automated KPI reporting scripts  
+📁 `/cs_operations` → Scaling CS workflows
 
-(Start: **February 2025**, 30 min daily)
+### 🔹 **Module 6: Python + API + SQL in Customer Success**
 
 ✅ Lesson 27: **Introduction to Python** – language basics, syntax, applications.  
 ✅ Lesson 28: **Environment Setup** – Python + VS Code + GitHub repository.  
@@ -56,6 +71,10 @@
 ⬜ Lesson 33: **Final Project: Python + SQL + API** – summary and real application in CS.  
 ⬜ Lesson 34: **DevTools & Debugging Basics – Web & API troubleshooting.**
 
+📂 **Repo Updates:**  
+📁 `/python` → Python automation scripts  
+📁 `/automation` → API + SQL automation workflows
+
 ### 🔹 **Module 7: Troubleshooting & Advanced Technical CS**
 
 ⬜ Lesson 35: **Debugging API in CS** – common API integration issues and resolution.  
@@ -64,97 +83,7 @@
 ⬜ Lesson 38: **Automation & Alerting for CS** – setting up automated alerts for proactive issue resolution.  
 ⬜ Lesson 39: **Case Study: Diagnosing and Fixing a Complex API Issue** – hands-on real-world troubleshooting scenario.
 
----
-
-## 🗓 **Learning Roadmap – What Will Be Added to the Repo?**
-
-This is the roadmap of my **GitHub repository**, documenting my learning journey in **Tech Customer Success** – from API & SQL to automation and AI-driven workflows.
-
-✅ **Repo Updates**  
-📁 `/docs` → README, Learning Tracker, GitHub workflow  
-📁 `/learning_logs` → First Bash & Git tests
-
----
-
-## Lessons 10-12: SQL for Customer Success
-
-- SQL fundamentals – SELECT, JOIN, GROUP BY
-- Data analysis in CS using SQL
-- Testing customer datasets in SQL
-
-✅ **Repo Updates**  
-📁 `/sql` → `.sql` files with SQL queries  
-📁 `/case_studies` → Analysis of sample datasets
-
----
-
-## Lessons 13-16: API Fundamentals
-
-- Postman – API basics, GET & POST requests
-- Fetching data from APIs in Python
-- First automation – combining API & SQL
-
-**✅ Repo Updates**  
-📁 `/api` → API tests, Postman queries  
-📁 `/projects` → Mini API + SQL integration
-
----
-
-## Lessons 17-21: Automation & AI in CS
-
-- Combining API + SQL + Python into workflows
-- Automating KPI reports using Python
-- AI-driven automations
-
-**✅ Repo Updates**  
-📁 `/automation` → Scripts automating CS workflows  
-📁 `/ai_in_cs` → AI experiments in CS
-
----
-
-## Lessons 22-25: Advanced API & Integrations
-
-- Connecting multiple APIs in a unified workflow
-- Creating webhooks & triggers for CS automation
-- Automating data retrieval for dashboards
-
-**✅ Repo Updates**  
-📁 `/api_integrations` → API tests across platforms  
-📁 `/webhooks` → Webhook configurations & event-driven actions
-
----
-
-## Lessons 26-29: Monitoring & DevTools for CS
-
-- Logging errors & API issue analysis
-- Monitoring customer interactions & KPIs
-- Automating alerts in CS workflows
-
-**✅ Repo Updates**  
-📁 `/monitoring` → API & error logging system  
-📁 `/alerts` → Automated CS alerts
-
----
-
-## Lessons 30-34: Finalization & Portfolio Projects
-
-- Building the final API + SQL + automation project
-- Completing full documentation in the repo
-- Summarizing learning & case study
-
-**✅ Repo Updates**  
-📁 `/final_project` → Full case study & documentation  
-📁 `/portfolio` → Organized projects for CV
-
----
-## Lessons 35-39: Troubleshooting & Advanced CS
-
-- Debugging API issues and analyzing customer API errors
-- SQL-based analysis of customer engagement and churn prediction
-- Monitoring logs and setting up automated alerts for proactive CS
-- Hands-on troubleshooting case study
-
-✅ **Repo Updates**  
+📂 **Repo Updates:**  
 📁 `/troubleshooting` → API debugging, SQL health analysis, log tracking  
 📁 `/case_studies` → Complex API troubleshooting scenarios
 
@@ -167,7 +96,8 @@ This is the roadmap of my **GitHub repository**, documenting my learning journey
 ⬜ **Gainsight NXT Admin Foundations** – CS platform & automation
 
 ---
-## 📂 **GitHub Repository Structure**
+
+📂 **GitHub Repository Structure**
 
 📁 `/docs` → README, Learning Tracker, roadmap  
 📁 `/learning_logs` → Daily mini-commits (SQL queries, API tests)  
@@ -181,5 +111,3 @@ This is the roadmap of my **GitHub repository**, documenting my learning journey
 📁 `/troubleshooting` → Debugging scenarios & log analysis  
 📁 `/final_project` → Full case study  
 📁 `/portfolio` → Structured projects for job applications
-
----
