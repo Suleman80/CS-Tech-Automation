@@ -14,7 +14,7 @@
 
 ### 🔹 **Module 2: API & SQL Fundamentals**
 
-🔄 Lesson 8: API Fundamentals (Postman & REST API in CS)  
+✅ Lesson 8: API Fundamentals (Postman & REST API in CS)  
 ⬜ Lesson 9: Debugging & API Analysis with DevTools  
 ⬜ Lesson 10: API Use Cases in CS (Integrations & Automations)  
 ⬜ Lesson 11: SQL Basics & Customer Data Analysis  
@@ -91,7 +91,7 @@
 
 ## 📌 **Certification Tracker (2025)**
 
-🔄 **Postman API Fundamentals** – API testing & debugging  
+✅ **Postman API Fundamentals** – API testing & debugging  
 ⬜ **AWS Certified Cloud Practitioner** – Cloud basics & AWS services  
 ⬜ **Gainsight NXT Admin Foundations** – CS platform & automation
 
