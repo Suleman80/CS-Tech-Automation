@@ -1,4 +1,4 @@
-## 📌 CS Tech Quest | API, SQL & AI for Customer Success 🚀
+## 📌 CS Tech Boost | API, SQL & AI for Customer Success 🚀
 
 Hey there! I’m diving into the tech side of Customer Success with this repo, exploring API integrations, SQL for customer insights, and AI-powered automation.
 ### What’s Inside?
