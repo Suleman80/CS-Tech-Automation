@@ -1,22 +1,18 @@
-## **📌 CS-Tech Automation | API, SQL & AI in Customer Success 🚀**
+## 📌 CS Tech Quest | API, SQL & AI for Customer Success 🚀
 
-This repository documents my **technical learning journey in Customer Success**, focusing on **API integrations, SQL for customer data insights, and AI-powered automation**.
+Hey there! I’m diving into the tech side of Customer Success with this repo, exploring API integrations, SQL for customer insights, and AI-powered automation.
+### What’s Inside?
 
-### **What’s Inside?**
+✅ **API & Postman** – Testing customer integrations (built a Postman script!)  
+✅ **SQL for CS** – Digging into customer data and KPIs  
+✅ **Python & GitHub Actions** – Automating workflows and reports  
+✅ **AI Automation** – Playing with AI (GPT, Claude, and Grok) for smarter CS ideas  
+### 🛠 Tools I’m Using
 
-✅ **API & Postman** – Testing and troubleshooting customer integrations  
-✅ **SQL for CS** – Data analysis, customer segmentation & KPI tracking  
-✅ **Python & GitHub Actions** – Automating CS workflows and reporting  
-✅ **AI-Driven Automation** – Using AI for predictive retention & engagement
-
-I leverage **automation & analytics** to build **scalable CS solutions** that drive impact. Let’s connect & explore ideas! 🚀
-
----
-
-## **🛠 Tools Used**
-
-✅ **Development & Automation:** Git, GitHub, GitHub Actions, Python, Bash  
-✅ **Data & Analytics:** SQL, Excel, API integrations  
+✅ **Development & Automation:** Git, GitHub, GitHub Actions, Python, Bash, DevTools (Chrome/Firefox for debugging)  
+✅ **Data & Analytics:** SQL, Excel, API integrations (via Postman)  
 ✅ **Cloud & Infrastructure:** AWS Cloud Practitioner (planned)  
-✅ **Productivity & Collaboration:** Notion, Obsidian, Slack, Google Meet, Microsoft Teams  
-✅ **AI & Workflow Automation:** GPT, Claude – assisting in coding, debugging, and learning
+✅ **Knowledge & Planning:** Notion, Obsidian  
+✅ **AI & Learning:** GPT, Claude, Grok – assisting with coding, debugging, and ideas
+
+I’m using automation and analytics to create better CS workflows. Want to chat about it? Let’s connect! 🚀
