@@ -13,7 +13,9 @@ This document outlines the tools and technologies I use daily for **Customer Suc
 ✅ **GitHub Actions** – Automating CS processes (e.g., reporting, API monitoring).  
 ✅ **Python** – Automating workflows, API integrations, data processing.  
 ✅ **Bash** – Command-line operations, Git scripting, automation.  
-✅ **DevTools (Chrome, Firefox)** – API request debugging, network analysis, troubleshooting integrations.
+✅ **DevTools (Chrome, Firefox)** – API request debugging, network analysis, troubleshooting integrations.  
+✅ **Make** – Automating workflows across tools like Zoom, HubSpot, and AI.  
+✅ **Postman** – API testing and integration validation.  
 
 ---
 
@@ -21,24 +23,23 @@ This document outlines the tools and technologies I use daily for **Customer Suc
 
 ✅ **SQL** – Customer data analysis, segmentation, insights.  
 ✅ **Excel** – Data visualization, KPI tracking, process optimization.  
-✅ **API Integrations** – Fetching & analyzing customer data from various sources.
-
----
-
-## ☁️ **Cloud & Infrastructure**
-
-✅ **AWS Cloud Practitioner** _(planned)_ – Cloud fundamentals, automation scaling.  
-✅ **Obsidian** – Knowledge management, structured documentation.  
-✅ **Notion** – Productivity, planning, tracking progress.
+✅ **API Integrations** – Fetching & analyzing customer data from various sources.  
+✅ **Looker Studio** – Creating dashboards for churn analysis and customer segmentation.  
+✅ **Python (Pandas, Scikit-learn)** – Data analysis and predictive modeling (e.g., churn prediction).  
 
 ---
 
 ## 💡 **Customer Success & Productivity Tools**
 
+✅ **HubSpot** – Ticketing, customer support, and workflow automation.  
+✅ **Zoom** – Virtual meetings and client calls.  
+✅ **Fireflies.ai** – Meeting transcription and analysis.  
+✅ **Make** – Automating integrations between CS tools (e.g., HubSpot, Zoom).  
+✅ **Claude & Perplexity API** – AI-powered sentiment analysis and automation.  
 ✅ **Slack** – Internal & external communication, collaboration.  
 ✅ **Google Meet, Microsoft Teams** – Virtual meetings, client calls, team syncs.  
-✅ **Postman** – API testing, integration validation.  
-✅ **AI-Assisted Workflows (GPT, Claude)** – Supporting CS automation, tutorial creation, coding, debugging, and structured learning.
+✅ **AI-Assisted Workflows (GPT, Claude, Grok)** – Supporting CS automation, tutorial creation, coding, debugging, and structured learning.  
+✅ **Obsidian** – Knowledge management, structured documentation, , tracking progress.  
 
 ---
 
