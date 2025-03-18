@@ -22,14 +22,14 @@ This repository contains the complete materials for the **Customer Success Maste
 
 ### 🔹 Module 2: API & Automation Fundamentals
 
-- [ ]  Lesson 1: Introduction to APIs
-- [ ]  Lesson 2: Postman Course – Basics
+- [x]  Lesson 1: Introduction to APIs
+- [x]  Lesson 2: Postman Course – Basics
 - [ ]  Lesson 3: Advanced API Topics (Authentication, Rate Limiting, Debugging with DevTools)
 - [ ]  Lesson 4: Automation with Make
 - [ ]  Lesson 5: API Integration with Make
 - **Project:** Automate Zoom meetings with HubSpot using Make
     - **Objective:** Automatically create a ticket in HubSpot with meeting notes
-    - **Tools:** Zoom (free), Fireflies.ai (free), HubSpot (free), Make (free)
+    - **Tools:** Zoom, Fireflies.ai, HubSpot, Make
     - **Steps:**
         1. Retrieve meeting data via Zoom API
         2. Generate meeting transcription with Fireflies.ai
@@ -46,7 +46,7 @@ This repository contains the complete materials for the **Customer Success Maste
 - [ ]  Lesson 6: Case Study: Churn Prediction Model with SQL and Python
 - **Project:** Build a churn analysis dashboard in Looker Studio
     - **Objective:** Create a dashboard showing churn rate and customer segmentation
-    - **Tools:** SQL (free, e.g., SQLite), Python (Pandas – free), Looker Studio (free)
+    - **Tools:** SQL (SQLite), Python (Pandas), Looker Studio
     - **Steps:**
         1. Write SQL queries to analyze customer data
         2. Use Python (e.g., Scikit-learn) for churn prediction
@@ -62,7 +62,7 @@ This repository contains the complete materials for the **Customer Success Maste
 - [ ]  Lesson 5: Case Study: Automating Workflow in HubSpot with Make
 - **Project:** Integrate HubSpot with AI using Make
     - **Objective:** Automatically analyze ticket sentiment with Claude API
-    - **Tools:** HubSpot (free), Claude API (paid), Make (free)
+    - **Tools:** HubSpot, Claude API, Make
     - **Steps:**
         1. Retrieve ticket data from HubSpot via API
         2. Analyze sentiment using Claude API
@@ -78,7 +78,7 @@ This repository contains the complete materials for the **Customer Success Maste
 - [ ]  Lesson 5: Case Study: Implementing Automation Strategy for a CS Team
 - **Project:** Develop an automation strategy for a CS team
     - **Objective:** Design a plan for automating a 10-person CS team using Make and AI
-    - **Tools:** Make (free), Claude API (paid), Looker Studio (free)
+    - **Tools:** Make, Claude API, Looker Studio
     - **Steps:**
         1. Identify processes to automate (e.g., onboarding, QBR)
         2. Design workflows in Make
@@ -88,14 +88,14 @@ This repository contains the complete materials for the **Customer Success Maste
 ## 📌 Certification Tracker (2025)
 
 - ✅ **Postman API Fundamentals** – API testing and debugging
-- ✅ **Gainsight Admin Foundations** – CS platform administration and automation
+- ✅ **Gainsight Admin Foundations** – CS platform basics
 - 🔄 **CCSM Level 1** – Certified Customer Success Manager (In Progress)
 
 ---
 
 ## 📂 GitHub Repository Structure
 
-- **📁 /docs** – README, Learning Tracker, course roadmap
+- **📁 /docs** – README.md, Knowledge Tracker.md
 - **📁 /learning_logs** – Daily mini-commits: SQL queries, API tests
 - **📁 /case_studies** – Real-world problem-solving, e.g., API debugging
 - **📁 /sql** – .sql files with CS data analyses
