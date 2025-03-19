@@ -1,4 +1,4 @@
-## 📌 Customer Success Mastery Course | API, SQL & AI for Customer Success 🚀
+## 📌 Customer Success Mastery Course | API, SQL & AI 🚀
 
 Hey there! I’m diving into the technical side of Customer Success with this repository, exploring API integrations, SQL for customer insights, and AI-powered automation. This repo contains the complete materials for the **Customer Success Mastery Course**, designed to equip learners with essential skills in Customer Success (CS), automation, AI, and data analysis.
 
