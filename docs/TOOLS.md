@@ -14,7 +14,7 @@ This document outlines the tools and technologies I use daily for **Customer Suc
 ✅ **Python** – Automating workflows, API integrations, data processing.  
 ✅ **Bash** – Command-line operations, Git scripting, automation.  
 ✅ **DevTools (Chrome, Firefox)** – API request debugging, network analysis, troubleshooting integrations.  
-✅ **Make** – Automating workflows across tools like Zoom, HubSpot, and AI.  
+✅ **Make** – Automating workflows
 ✅ **Postman** – API testing and integration validation.  
 
 ---
@@ -34,7 +34,7 @@ This document outlines the tools and technologies I use daily for **Customer Suc
 ✅ **HubSpot** – Ticketing, customer support, and workflow automation.  
 ✅ **Zoom** – Virtual meetings and client calls.  
 ✅ **Fireflies.ai** – Meeting transcription and analysis.  
-✅ **Make** – Automating integrations between CS tools (e.g., HubSpot, Zoom).  
+✅ **Make** – Automating integrations between CS tools.
 ✅ **Claude & Perplexity API** – AI-powered sentiment analysis and automation.  
 ✅ **Slack** – Internal & external communication, collaboration.  
 ✅ **Google Meet, Microsoft Teams** – Virtual meetings, client calls, team syncs.  
