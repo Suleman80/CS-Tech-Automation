@@ -1,23 +1,23 @@
-## 📌 Customer Success Mastery Course | API, SQL, Python & AI
+# 📌 Customer Success Mastery Course | API, SQL, Python & AI
 
-Hey there! I’m diving into the technical side of Customer Success with this repository, exploring API integrations, SQL for customer insights, and AI-powered automation. This repo contains the complete materials for the **Customer Success Mastery Course**, designed to equip learners with essential skills in Customer Success (CS), automation, AI, and data analysis.
+Hey there! This repository documents **my personal learning journey** in tech-driven Customer Success, exploring API integrations, SQL for customer insights, and AI-powered automation. The **Customer Success Mastery Course** is my 25+ lesson roadmap, designed to build skills in Customer Success (CS), automation, AI, and data analysis. It’s a work in progress, created as I learn – not a ready-made course for others, but a guide to my growth and an inspiration for those on a similar path.
 
 ### What’s Inside?
 
-✅ **Customer Success Essentials** – Learn the fundamentals of CS, key metrics, and success planning.  
-✅ **API & Automation** – Master API testing with Postman and automate workflows using Make.  
-✅ **Data Analysis & AI** – Use SQL and Python to analyze customer data and predict churn.  
-✅ **CS Platforms & Tools** – Explore tools like Gainsight and integrate them with AI via Make.  
-✅ **Advanced CS Operations** – Scale CS operations and design automation strategies for teams.
+✅ **Customer Success Essentials** – Learning the fundamentals of CS, key metrics, and success planning.  
+✅ **API & Automation** – Mastering API testing with Postman and automating workflows using Make.  
+✅ **Data Analysis & AI** – Using SQL and Python to analyze customer data and predict churn.  
+✅ **CS Platforms & Tools** – Exploring tools like Gainsight and configuring native integrations.  
+✅ **Advanced CS Operations** – Scaling CS operations and designing automation strategies for teams.  
 
 ### 🛠 Tools I’m Using
 
-Here’s a quick overview of the tools powering this course and my workflows:
+Here’s a quick overview of the tools powering my learning journey:  
 
-- **Development & Automation:** Git, GitHub, GitHub Actions, Python, Bash, Make, Postman
-- **Data & Analytics:** SQL, Excel, Looker Studio, API integrations
-- **Customer Success & Productivity:** Gainsight (sandbox), Make, Claude API
+- **Development & Automation:** Git, GitHub, GitHub Actions, Python, Bash, Make, Postman  
+- **Data & Analytics:** SQL, Excel, Looker Studio, API integrations  
+- **Customer Success & Productivity:** Gainsight (sandbox), Make, Claude API  
 
-For a detailed breakdown of these tools and how I use them, check out [TOOLS.md](https://github.com/Suleman80/CS-Tech-Automation/blob/main/TOOLS.md).
+For a detailed breakdown of these tools and how I use them, check out [TOOLS.md](docs/TOOLS.md).  
 
-I’m leveraging automation and analytics to build smarter CS workflows. Want to collaborate or chat about it? Let’s connect! 🚀
+I’m leveraging automation and analytics to build smarter CS workflows. Want to collaborate or chat about it? Let’s connect! 📚
